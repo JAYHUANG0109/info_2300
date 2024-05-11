@@ -1,0 +1,21 @@
+# ignore all uploaded files (do not commit to git)
+*
+!.gitignore
+
+# TODO: except do not ignore the "seed" images for the "entries" table.
+!/players/
+!/players/1.png
+!/players/2.png
+!/players/3.png
+!/players/4.png
+!/players/5.png
+!/players/6.png
+!/players/7.png
+!/players/8.png
+!/players/9.png
+!/players/10.png
+!/players/11.png
+!/players/12.png
+!/players/13.png
+!/players/14.png
+!/players/15.png
